@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Bulky.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Bulky.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\Images\\products\\143cbade-53b9-4d9f-a47d-05507c1f7b9b.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\143cbade-53b9-4d9f-a47d-05507c1f7b9b.jpg"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\Images\\products\\19cc7d37-7566-48a9-8eb8-3490d085c000.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\19cc7d37-7566-48a9-8eb8-3490d085c000.jpg"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\Images\\products\\19d78aad-c6cb-45be-ad84-098585a08fda.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\19d78aad-c6cb-45be-ad84-098585a08fda.jpg"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\Images\\products\\5d9d4aab-757f-4a71-add7-82935bbc7a48.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\5d9d4aab-757f-4a71-add7-82935bbc7a48.jpg"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\Images\\products\\70eb411b-b413-42ed-aa03-26c9f82f5360.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\70eb411b-b413-42ed-aa03-26c9f82f5360.jpg"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\Images\\products\\ad79efab-f8be-41ca-8c83-13cd4c7bac5e.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\ad79efab-f8be-41ca-8c83-13cd4c7bac5e.jpg"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\css\\bootswatchtheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchtheme.css"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\BHAGYASHREE\\DotNetMVC\\Bulky\\Bulky\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Bulky.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Bulky.props",
+      "PackagePath": "build\\Bulky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Bulky.props",
+      "PackagePath": "buildMultiTargeting\\Bulky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Bulky.props",
+      "PackagePath": "buildTransitive\\Bulky.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
